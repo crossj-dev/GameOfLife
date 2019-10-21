@@ -1,0 +1,27 @@
+/**************************************
+Styling Sheet for LabFive
+**************************************/
+
+.root
+{
+        -fx-background-color: darkSlateGray;
+}
+
+.button
+{
+        -fx-font-size: 15;
+        -fx-font-family: fantasy;
+        -fx-font-weight: bold;
+        -fx-background-color: white;
+        -fx-padding: 4;
+}
+
+.label
+{
+        -fx-font-size: 15;
+        -fx-font-family: fantasy;
+        -fx-font-weight: bold;
+        -fx-background-color: white;
+        -fx-padding: 4;
+        -fx-border-color: lightBlue;
+}
